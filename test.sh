@@ -8,5 +8,3 @@ check_file_dir() {
 }
 
 check_file_dir "$file"
-
-echo "master 1"
