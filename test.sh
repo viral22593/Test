@@ -34,4 +34,5 @@ echo "this is from rebase1"
 echo "this is from rebase2"
 echo "this is from master2"
 echo "this is from rebase3"
+echo "this is from rebase4"
 
