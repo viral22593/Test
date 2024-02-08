@@ -9,32 +9,3 @@ check_file_dir() {
 
 check_file_dir "$file"
 
-echo "this is second line log"
-
-echo "this is from newB branch"
-
-echo "this is from rebaseExample"
-
-echo "this is from rebaseExample2"
-
-echo "this is from main brnach"
-
-echo "this is from mergeExample"
-
-echo "this is from mergeExample2"
-
-echo "this is from testbranch"
-
-
-echo "this is from master1"
-
-
-
-echo "this is from rebase1"
-echo "this is from rebase2"
-echo "this is from master2"
-echo "this is from rebase3"
-echo "this is from rebase4"
-
-echo "this is from master1"
-echo "this is from master2"
