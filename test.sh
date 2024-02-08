@@ -38,4 +38,3 @@ echo "this is from rebase4"
 
 echo "this is from master1"
 echo "this is from master2"
->>>>>>> d922577 (master 2)
