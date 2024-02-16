@@ -1,4 +1,4 @@
-login as: root
+login as: root1
 Using keyboard-interactive authentication.
 Password:
 Last login: Thu Aug  3 02:17:45 2017 from winvp186026-5th.td.teradata.com
